@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/t6l8rq22il7pkh33/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-11-3-rxjs-dashboard/branch/master)
 
-#### Deployment: <a href=" ">Github Pages</a>
+#### Deployment: <a href="">Github Pages</a>
 
 ---
 
